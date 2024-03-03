@@ -8,3 +8,6 @@
 
 ### Use forms to allow users to interact with the app. Build an application in React -> This Simplest Working Calculator app
 
+#### to run my react app 
+- npm install
+- npm start
